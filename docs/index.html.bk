@@ -4,24 +4,20 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700' rel='stylesheet' type='text/css'>
-  <title>Steven Kong Resume</title>
-  <meta name="keywords" content="Steven Kong">
-  <meta name="description" content="All about Steven Kong.">
+  <title>Clear View Escapes</title>
+  <meta name="keywords" content="Travel planning, travel bundles, travel escapes, affordable travel">
+  <meta name="description" content="Your clarify. One trip away. We create soul restoring journeys that inspire you to be you.">
 
-  <!-- build:css assets/styles/styles.css -->
-  <link rel="stylesheet" href="temp/styles/styles.css">
-  <!-- endbuild -->
+  <link rel="stylesheet" href="assets/styles/styles-de9429933b.css"/>
 
-  <!-- build:js assets/scripts/Vendor.js -->
-  <script src="/temp/scripts/Vendor.js"></script>
-  <!-- endbuild -->
+  <script src="assets/scripts/Vendor-b56193e16a.js"></script>
 
 </head>
 <body>
   <header class="site-header">
     <div class="wrapper">
       <div class="site-header__logo">
-        <div class="site-header__logo__graphic icon icon--clear-view-escapes">Steven Kong Resume</div>
+        <div class="site-header__logo__graphic icon icon--clear-view-escapes">Clear View Escapes</div>
       </div>
       
       <div class="site-header__menu-icon">
@@ -54,10 +50,10 @@
 
     <div class="large-hero__text-content">
       <div class="wrapper">
-        <h1 class="large-hero__title">Steven Kong (郭卫庆）</h1>
-        <h2 class="large-hero__subtitle">Senior System Analyst at SATS Food Service Pte. Ltd.</h2>
-        <p class="large-hero__description">Technically sophisticated and business-savvy management professional with a pioneering career reflecting strong leadership qualifications coupled with “hands-on” IS and networking expertise. Maintain focus on achieving bottom- line results while formulating and implementing advanced technology and business solutions to meet a diversity of needs.</p>
-        <p><a href="#" class="btn btn--orange btn--large open-modal">Get In Touch</a></p>
+        <h1 class="large-hero__title">Your clarity.</h1>
+        <h2 class="large-hero__subtitle">One trip away.</h2>
+        <p class="large-hero__description">We create soul restoring journeys that inspire you to be you.</p>
+        <p><a href="#" class="btn btn--orange btn--large open-modal">Get Started Today</a></p>
       </div>
     </div>
   </div>
@@ -194,8 +190,6 @@
     <div class="modal__close">X</div>
   </div>
   
-  <!-- build:js assets/scripts/App.js -->
-  <script src="/temp/scripts/App.js"></script>
-  <!-- endbuild -->
+  <script src="assets/scripts/App-d12f46dab1.js"></script>
 </body>
 </html>
